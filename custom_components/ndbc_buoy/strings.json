@@ -3,7 +3,7 @@
     "step": {
       "user": {
         "title": "Add NDBC buoy",
-        "description": "Enter an NDBC station ID (for example 46206 or neaw1). Find IDs at https://www.ndbc.noaa.gov.",
+        "description": "Enter an NDBC station ID (for example 46206 or neaw1).",
         "data": {
           "station_id": "Station ID"
         }
