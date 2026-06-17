@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="/rss/ndbcrss.xsl"?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss">
+  <channel>
+    <title>NDBC - Station 46206 - La Perouse Bank Observations</title>
+    <item>
+      <pubDate>Wed, 17 Jun 2026 12:10:44 +0000</pubDate>
+      <title>Station 46206 - La Perouse Bank</title>
+      <description><![CDATA[
+        <strong>June 17, 2026 5:00 am PDT</strong><br />
+        <strong>Location:</strong> 48.84N 126W<br />
+        <strong>Wind Direction:</strong> NW (310&#176;)<br />
+        <strong>Wind Speed:</strong> 27.2 knots<br />
+        <strong>Wind Gust:</strong> 35.0 knots<br />
+        <strong>Significant Wave Height:</strong> 9.8 ft<br />
+        <strong>Dominant Wave Period:</strong> 7 sec<br />
+        <strong>Atmospheric Pressure:</strong> 30.06 in (1018.1 mb)<br />
+        <strong>Pressure Tendency:</strong> +0.00 in (+0.1 mb)<br />
+        <strong>Air Temperature:</strong> 54.7&#176;F (12.6&#176;C)<br />
+        <strong>Dew Point:</strong> 52.2&#176;F (11.2&#176;C)<br />
+        <strong>Water Temperature:</strong> 53.6&#176;F (12.0&#176;C)<br />
+      ]]></description>
+      <georss:point>48.84 -126.0</georss:point>
+    </item>
+  </channel>
+</rss>

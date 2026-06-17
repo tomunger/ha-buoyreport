@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss">
+  <channel>
+    <title>NDBC - Station NEAW1 - Neah Bay, WA Observations</title>
+    <item>
+      <pubDate>Wed, 17 Jun 2026 17:00:30 +0000</pubDate>
+      <title>Station NEAW1 - Neah Bay, WA</title>
+      <description><![CDATA[
+        <strong>June 17, 2026 10:00 am PDT</strong><br />
+        <strong>Location:</strong> 48.367N 124.614W<br />
+        <strong>Atmospheric Pressure:</strong> 30.16 in (1021.4 mb)<br />
+        <strong>Water Temperature:</strong> 52.3&#176;F (11.3&#176;C)<br />
+      ]]></description>
+      <georss:point>48.367 -124.614</georss:point>
+    </item>
+  </channel>
+</rss>

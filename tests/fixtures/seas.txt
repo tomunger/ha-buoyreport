@@ -1,0 +1,12 @@
+Station 46206
+48° 50.4' N  126° 0.0' W
+
+5:00 am PDT
+1200 GMT 06/17/26
+Wind: NW (310°), 27.2 kt
+Gust: 35.0 kt
+Seas: 9.8 ft
+Peak Period: 7 sec
+Pres: 30.06 steady
+Air Temp: 54.7 °F
+Water Temp: 53.6 °F

@@ -1,0 +1,20 @@
+Station 46041
+47° 21.1' N  124° 44.4' W
+
+12:30 pm PDT
+1930 GMT 06/17/26
+Wind: NW (320°), 15.5 kt
+Gust: 19.4 kt
+Pres: 30.19
+Air Temp: 55.9 °F
+Dew Point: 52.3 °F
+
+Wave Summary
+12:10 pm PDT
+1900 GMT 06/17/26
+Swell: 7.5 ft
+Period: 9.1 sec
+Direction: WNW
+Wind Wave: 5.9 ft
+Period: 6.2 sec
+Direction: NW
