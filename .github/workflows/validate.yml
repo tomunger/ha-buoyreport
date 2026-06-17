@@ -1,0 +1,28 @@
+name: Validate
+
+on:
+  push:
+  pull_request:
+  schedule:
+    # Re-run weekly so upstream hassfest/HACS rule changes are caught.
+    - cron: "0 6 * * 1"
+
+jobs:
+  hassfest:
+    name: hassfest (manifest validation)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: home-assistant/actions/hassfest@master
+
+  hacs:
+    name: HACS validation
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: hacs/action@main
+        with:
+          category: integration
+          # Skip the brands check until the integration is added to
+          # home-assistant/brands (only required for the default HACS store).
+          ignore: brands

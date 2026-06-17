@@ -1,12 +1,12 @@
 {
   "domain": "ndbc_buoy",
   "name": "NDBC Ocean Buoy",
-  "codeowners": [],
+  "codeowners": ["@tomunger"],
   "config_flow": true,
-  "documentation": "https://github.com/youruser/ha-bouyreport",
+  "documentation": "https://github.com/tomunger/ha-buoyreport",
   "integration_type": "device",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/youruser/ha-bouyreport/issues",
+  "issue_tracker": "https://github.com/tomunger/ha-buoyreport/issues",
   "requirements": [],
   "version": "0.2.0"
 }
